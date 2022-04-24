@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _isupper - checks for uppercase character.
  * @c: contains the int to print
@@ -7,6 +6,5 @@
  */
 int _isupper(int c)
 {
-
 return (c >= 'A' && c <= 'Z' ? 1 : 0);
 }
